@@ -1,0 +1,6 @@
+ttkbootstrap
+keyboard
+pygame
+pymem
+numpy
+pywin32 
