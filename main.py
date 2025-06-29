@@ -4,7 +4,7 @@ import pygame
 import struct
 import math
 import numpy as np
-from modules.help import get_process_handle, game_ptr, get_module_info, get_build_number, draw_entity, draw_entity_with_health, get_bone_world_position, read_matrix
+from modules.help import get_process_handle, game_ptr, get_module_info, get_build_number, draw_entity, draw_entity_with_health, bone_world_pos, read_matrix
 import win32gui
 import win32con
 import keyboard
